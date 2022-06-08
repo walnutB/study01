@@ -23,6 +23,10 @@
 </head>
 <body>
 <!-- btn을 클릭하면 정보를 얻어와 div#result에 출력하기(이름,나이,전화번호) -->
+	asdfasfd
+	afsdasfdㅁㄹㅇㄴㅇㅇㅇㅇㅇㅇ"ㅇㄹㄴ"
+	
+	
 <input type="button" value="데이터받아오기" id="btn1" onclick="gobtn()">
 <div id="result">
 </div>
